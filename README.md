@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=Mohan-Sai-Kompelli&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohan-Sai-Kompelli&layout=compact&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohan-Sai-Kompelli&theme=dark&hide_border=false&layout=compact)
+
 
 
 ## 📈 Contribution Graph:
