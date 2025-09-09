@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Mohan-Sai-Kompelli&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mohan-Sai-Kompelli&theme=dark&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohan-Sai-Kompelli&hide=jupyter%20notebook,html&layout=compact&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohan-Sai-Kompelli&theme=dark&hide_border=false&layout=compact)
 
 
