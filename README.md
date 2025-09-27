@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mohansaikompelli15@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@Yodha-no-1)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/Mohan-Sai-Kompelli)
+[![Code360](https://img.shields.io/badge/Code360-%23FF6600.svg?logo=naukri&logoColor=white)](https://www.naukri.com/code360/profile/754d809d-67c5-40c8-af3c-1cb42d889e4e)
+
 
 
 ## 💻 Tech Stack:
