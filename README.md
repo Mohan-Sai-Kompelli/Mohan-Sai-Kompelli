@@ -1,7 +1,7 @@
 
 # 👋 Welcome to my GitHub profile!  
 
-I’m Mohan Sai, a passionate **Computer Science student** currently pursuing my **B.Tech at SRM University**.  
+I’m Mohan Sai, a passionate **Computer Science student** who pursued my **B.Tech at SRM University**.  
 I specialize in building **full-stack applications** and designing **scalable backend architectures** that handle real-world demands.  
 I’m deeply interested in **Machine Learning** and **Deep Learning**, exploring ways to integrate AI into innovative, high-impact solutions.  
 I’m always driven to explore new technologies, contribute to impactful projects, and push my boundaries as a developer.
